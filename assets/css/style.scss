@@ -2,13 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
 html {
-  background:#123740;
-  background: linear_gradient(#123740, #123740)
+  background:#01323e;
+  background: linear_gradient(#01323e, #01323e)
 }
   
 a:link {
-  color:#dd571c;
+  color:#d65424;
 }
 
 a:hover {
@@ -16,38 +17,58 @@ a:hover {
 }
 
 header {
-  background:#b0d7e1;
-  background: linear_gradient(#b0d7e1, #b0d7e1);
+  background:#88b9c5;
+  background: linear_gradient(#88b9c5, #88b9c5);
+  border-bottom: 1px solid #01323e;
   
   h1 {
-    font-size:28px;
-    color:#123740;
+    font-family: 'Homemade Apple', cursive;
+    font-size:34px;
+    text-align: center;
+    padding: 10px;
+    color:#01323e;
     text-shadow:none;
   }
   
   p {
-    color:#123740;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size:16px;
+    font-style: italic;
+    text-align: center;
+    color:#01323e;
     width: auto;
   }
 }
 
 section {
-  background:#f6f6f6;
-  background: linear_gradient(#f6f6f6, #f6f6f6);
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size:16px;
+  text-align:justify;
+  background:#e2e2e2;
+  background: linear_gradient(#e2e2e2, #e2e2e2);
+  border-top: 1px solid #01323e;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#dd571c;
+  color:#d65424;
 }
 
 h1 {
-  font-size:24px;
+  font-size:28px;
 }
 
 h2 {
-  font-size:20px;
+  font-size:24px;
 }
 
 h3,h4,h5,h6 {
-  font-size:16px
+  font-size:22px
+}
+
+@media print, screen and (max-width: 740px) {
+  header {
+    border-radius: 0
+  }
 }
