@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Is this thing on? (Or "Welcome to my blog")"
+tags: parenting 
+---
+
 ## Is this thing on?  (Or "Welcome to my blog")
 
 It is 4pm.
