@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Is this thing on? (Or "Welcome to my blog")"
-tags: parenting 
+tags: Parenting
 ---
 
 ## Is this thing on?  (Or "Welcome to my blog")
