@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: Open Parenthesis
 description: One woman's perspective of (twin) parenting (and other thoughts about things)
+permalink: /:year/:month/:day/:title/
