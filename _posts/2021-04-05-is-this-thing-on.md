@@ -4,8 +4,6 @@ title: 'Is this thing on? (Or "Welcome to my blog")'
 tags: Parenting
 ---
 
-## Is this thing on?  (Or "Welcome to my blog")
-
 It is 4pm.
 
 It is Easter Monday.
