@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Is this thing on? (Or "Welcome to my blog")'
+title: 'Is this thing on?'
+subtitle: '(Or "Welcome to my blog")'
 tags: Parenting
 ---
 
