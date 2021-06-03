@@ -8,9 +8,9 @@ html {
   background: linear_gradient(#01323e, #01323e)
 }
   
-a:link {
+a {
   color:#d65424;
-}
+  }
 
 a:hover {
   text-decoration:underline;
@@ -51,20 +51,29 @@ section {
   border-top: 1px solid #01323e;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   color:#d65424;
+  text-align: left;
+}
+
+h6 {
+	color:#555;
+	font-size:16px;
+	text-align:right;
+	font-style: italic;
 }
 
 h1 {
-  font-size:28px;
+  font-size:26px;
+  margin:0 0 10px;
 }
 
 h2 {
-  font-size:24px;
+  font-size:22px;
 }
 
-h3,h4,h5,h6 {
-  font-size:22px
+h3,h4,h5 {
+  font-size:20px;
 }
 
 @media print, screen and (max-width: 740px) {
