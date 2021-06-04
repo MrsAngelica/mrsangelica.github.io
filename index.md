@@ -2,8 +2,16 @@
 layout: default
 ---
 
-# Hello, World!
+# Wilkommen, bienvenue, welcome...
 
-## Subheadings I have known
+## (Less an attempt at a multilingual blog, more a shameless *Cabaret* reference)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If this is your first time here, hello!  Generally speaking, I blog about [(twin) parenting](https://openparenthesis.co.uk/tags/parenting/), [feminism](https://openparenthesis.co.uk/tags/feminism/), [yoga](https://openparenthesis.co.uk/tags/yogs/), [mindfulness](https://openparenthesis.co.uk/tags/mindfulness/) and [(armchair) psychology](https://openparenthesis.co.uk/tags/psychology/) (NB I'm using "psychology" as a clumsy shorthand for "general stuff about how the brain works and/or how people see, and interact with, the world).
+
+[Here's](https://openparenthesis.co.uk/2021/04/06/who-am-i/) a kind of introduction to who I am and the kind of thing you might find here.
+
+If you would like to comment on/discuss anything you read here, or else communicate with me through the medium of limited characters, [you can find me on Twitter](https://twitter.com/OpnParenthesis)
+
+Until next time...
+
+xx
