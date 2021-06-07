@@ -49,14 +49,13 @@ section {
   background:#e2e2e2;
   background: linear_gradient(#e2e2e2, #e2e2e2);
   border-top: 1px solid #01323e;
-}
 
-h1, h2, h3, h4, h5 {
+  h1, h2, h3, h4, h5 {
   color:#d65424;
   text-align: left;
-}
-
-h6 {
+  }
+  
+  h6 {
 	color:#555;
 	font-size:16px;
 	text-align:right;
@@ -76,6 +75,25 @@ h2 {
 h3,h4,h5 {
   font-size:20px;
 }
+}
+
+footer {
+	border-radius: 0 0 8px 8px;
+	background: #88B9C5;
+	background: linear_gradient(#88B9C5, #88B9C5);
+	border-top: 1px solid #01323e;
+	width:740px;
+	margin:0 auto;
+
+  p {
+	  font-family: 'Lato', sans-serif;
+	  font-weight: 300px;
+	  font-size: 16px;
+	  text-align: center;
+	  color: #01323e;
+	  width: auto;
+  }
+ }
 
 @media print, screen and (max-width: 740px) {
   header {
