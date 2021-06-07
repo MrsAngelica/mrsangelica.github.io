@@ -49,6 +49,7 @@ section {
   background:#e2e2e2;
   background: linear_gradient(#e2e2e2, #e2e2e2);
   border-top: 1px solid #01323e;
+  border-bottom: 1px solid #01323e;
 
   h1, h2, h3, h4, h5 {
   color:#d65424;
@@ -82,17 +83,22 @@ footer {
 	background: #88B9C5;
 	background: linear_gradient(#88B9C5, #88B9C5);
 	border-top: 1px solid #01323e;
-	width:740px;
+	width:640px;
 	margin:0 auto;
 
   p {
 	  font-family: 'Lato', sans-serif;
-	  font-weight: 300px;
+	  font-weight: 300;
 	  font-size: 16px;
 	  text-align: center;
 	  color: #01323e;
 	  width: auto;
   }
+
+  a {
+	  color: #D65424;
+	  font-weight: 300;
+
  }
 
 @media print, screen and (max-width: 740px) {
