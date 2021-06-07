@@ -93,13 +93,20 @@ footer {
 	  text-align: center;
 	  color: #01323e;
 	  width: auto;
+	  float: none;
   }
 
   a {
-	  color: #D65424;
+	  color: #01323e;
 	  font-weight: 300;
 
  }
+
+ a:hover {
+	 text-decoration: underline;
+	 color: #88B9C5;
+ }
+
 }
 
 @media print, screen and (max-width: 740px) {
