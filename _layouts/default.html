@@ -17,7 +17,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-	      <h1><a href="https://openparenthesis.co.uk">{{ site.title | default: site.github.repository_name }}</a></h1>
+	      <h1><a href="/" title="Home page">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -28,21 +28,11 @@
 
       </section>
       <footer>
-	      <p><a href="https://openparenthesis.co.uk/tags/parenting/">Parenting</a> | <a href="https://openparenthesis.co.uk/tags/feminism/">Feminism</a> | <a href="https://openparenthesis.co.uk/tags/yoga/">(Yoga and) Mindfulness</a> | <a href="https://openparenthesis.co.uk/tags/psychology/">(Armchair) Psychology</a>
+	      <p><a href="{{ /tags/parenting/index.html }}">Parenting</a> | <a href="{{ /tags/mindfulness/index.html }}">Yoga and Mindfulness</a> | <a href="{{ /tags/psychology/index.html }}">Armchair Psychology</a>
       </footer>
     </div>
    
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
+   
   </body>
 </html>
