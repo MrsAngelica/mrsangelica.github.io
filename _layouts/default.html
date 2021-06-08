@@ -28,11 +28,11 @@
 
       </section>
       <footer>
-	      <p>{% for tag in site.tags %}
+	      <p><a href="/posts.html" title="All posts">All posts</a> | {% for tag in site.tags %}
 	      <a href="/tags/{{ tag[0]|slugify }}/index.html" title="{{tag[0]}}">{{tag[0]}}</a>
 	      {% unless forloop.last %} | {% endunless %}
 	      {% endfor %}
-	      <p><a href="/posts.html" title="All posts">All posts</a>
+	      </p>
      </footer>
     </div>
    
