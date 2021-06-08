@@ -7,7 +7,7 @@ layout: default
 (Less an attempt at a multilingual blog, more a shameless *Cabaret* reference)
 
 **Latest post**:
-{% assign latest=site.posts[0] %}
+{%- assign latest=site.posts[0] -%}
 [{{ latest.title }} {{ latest.subtitle }}]({{ latest.url }})
 
 If this is your first time here, hello!  At the bottom of this (and every) page is a list of tags that I have used - click on any of them for a list of posts with that tag (like [Parenting]({% link tags/parenting/index.html %})), and to a full list of [All Posts Ever]({% link posts.md %}).
