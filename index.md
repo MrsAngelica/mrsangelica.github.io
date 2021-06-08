@@ -6,9 +6,11 @@ layout: default
 
 (Less an attempt at a multilingual blog, more a shameless *Cabaret* reference)
 
-If this is your first time here, hello!  Generally speaking, I blog about [(twin) parenting](https://openparenthesis.co.uk/tags/parenting/), [feminism](https://openparenthesis.co.uk/tags/feminism/), [yoga](https://openparenthesis.co.uk/tags/yoga/), [mindfulness](https://openparenthesis.co.uk/tags/mindfulness/) and [(armchair) psychology](https://openparenthesis.co.uk/tags/psychology/) (NB I'm using "psychology" as a clumsy shorthand for "general stuff about how the brain works and/or how people see, and interact with, the world").
+Latest post: [Who am I? (Or "I'm sure I left my identity around here somewhere"](https://openparenthesis.co.uk/2021/04/06/who-am-i/)
 
-[Here's](https://openparenthesis.co.uk/2021/04/06/who-am-i/) a kind of introduction to who I am and the kind of thing you might find here.
+If this is your first time here, hello!  At the bottom of every page are links to lists of posts with certain tags, for example [(twin) parenting](https://openparenthesis.co.uk/tags/parenting/) and [(yoga and) mindfulness](https://openparenthesis.co.uk/tags/mindfulness/).
+
+[Here's](https://openparenthesis.co.uk/2021/04/06/who-am-i/) a kind of introduction to the blog and [here's](https://openparenthesis.co.uk/2021/04/06/) a kind of introduction to me and the sort of thing you might find here.
 
 If you would like to comment on/discuss anything you read here, or else communicate with me through the medium of limited characters, [you can find me on Twitter](https://twitter.com/OpnParenthesis).
 
