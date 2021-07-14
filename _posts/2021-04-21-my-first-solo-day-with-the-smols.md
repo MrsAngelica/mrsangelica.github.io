@@ -26,7 +26,7 @@ This, friends, is my live voice note blog of that day.
 9.45am: Feel like we’ve been doing play time for two hours already (it’s been 20 minutes).
 9.50am: Listen to Christina Perri’s A Thousand Years, cry uncontrollably.
 9.55am: Come upstairs because neither Smol is showing any signs of hunger and I want to get ahead of that curve.
-10am: The formula prep machine is still running and the Smols are now HUNGRIER THAN THEY HAVE EVER BEEN.
+10.00am: The formula prep machine is still running and the Smols are now HUNGRIER THAN THEY HAVE EVER BEEN.
 10.03am: Doorbell goes.  Luckily we have a very understandable postman who doesn’t mind the extra trip to the garden.
 10.05am: Smols have just held their own bottles for a second or two.  Please please PLEASE let this be a sign of things to come.
 10.40am: Manage the first verse of “You are my sunshine” baby signing before they get bored.

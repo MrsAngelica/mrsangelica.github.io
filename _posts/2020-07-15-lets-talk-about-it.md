@@ -7,9 +7,9 @@ tags: Parenting Mindfulness
 
 *The following post was written for a project called Letters To Other Women: Let’s Talk About It, curated by Eleanor Perkins.  In the first collection of letters, women write about their experiences of getting, and staying, pregnant.  You can [follow the project on Instagram](https://www.instagram.com/letterstootherwomen/), where you can also order a copy of the first book, or [contact me through Twitter](https://twitter.com/OpnParenthesis) to find out more.*
 
+---
+
 TW: miscarriage, blood, gaslighting
- 
-~~~
 
 On 5th October 2019, I bounded (well, trundled - I very rarely bound) downstairs, pee-covered stick in hand and ceremoniously announced to my husband: “Well, it looks like we’re going to have a baby then…”
 
