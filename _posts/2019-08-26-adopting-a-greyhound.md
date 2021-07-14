@@ -7,7 +7,7 @@ tags: Dogs
 
 *The following post was written for the Greyhound Trust after they asked me to write about our experience of adopting a greyhound.  If you are interested in doing the same, please [get in touch with your local Greyhound Trust](https://www.greyhoundtrust.org.uk/regional-branches) to find out more.  They make such wonderful additions to the family and adoption kennels across the country are packed to the brim with retired racers looking for a forever home.*
  
-~~~
+---
  
 We've been wanting to get a dog for so long that we started to tell people that it was the only reason we were buying a house...  We had thought about different breeds for ages, but as soon as we started reading about greyhounds, we thought we'd found the right breed for us.  We knew we wanted to adopt or rescue a dog, and there are so so many greyhounds up for adoption across the country, that our minds were made up!
  
