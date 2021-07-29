@@ -2,7 +2,7 @@
 layout: post
 title: "To blog or not to blog"
 subtitle: "(Or \"Learning to let go\")"
-tags: parenting psychology mindfulness
+tags: Parenting Psychology Mindfulness
 ---
 
 I recently spent a substantial number of hours trying to shoehorn a very specific conversation with my husband about the nature of parenting into a general call-to-arms blog post.
@@ -23,8 +23,8 @@ Clearly, at some point in the future, people will find it and be dumbfounded by 
 
 Until that day, though, I’ma go ahead and boil it down to two things:
 
-I write to help me remember stuff (either because it was awesome or - in the case of large swathes of early parenting - hideous (a reminder to my future self of what we actually survived)).
-I write so that I have a place to store my more-well-thought-through Thoughts About Things - specifically with a view to pointing people at said Thoughts if I think they might be interested in them.  This serves two main purposes: it saves everybody a lot of time and frustration if I struggle to construct my Thoughts concisely and effectively in conversation, and it also allows people to not engage with my Thoughts if they don’t want to (rather than my holding their ears to ransom until I’m done ranting).
+1. I write to help me remember stuff (either because it was awesome or - in the case of large swathes of early parenting - hideous (a reminder to my future self of what we actually survived)).
+2. I write so that I have a place to store my more-well-thought-through Thoughts About Things - specifically with a view to pointing people at said Thoughts if I think they might be interested in them.  This serves two main purposes: it saves everybody a lot of time and frustration if I struggle to construct my Thoughts concisely and effectively in conversation, and it also allows people to not engage with my Thoughts if they don’t want to (rather than my holding their ears to ransom until I’m done ranting).
 
 There is a third reason for writing, of course, which is that sometimes I will attempt to write a post and in the process of writing it, I will work out that it doesn’t need writing.  The whole point of that scenario is to help my brain figure out what it thinks about something, and nobody (not even my future self) needs to see that ‘working out’.  It’s not a GCSE maths exam.
 
