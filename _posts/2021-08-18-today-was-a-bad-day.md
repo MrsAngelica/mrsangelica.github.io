@@ -58,6 +58,8 @@ My husband arrived, took over, I had a full on panic attack, some time passed an
 
 Throughout this process (but mainly afterwards), all I could hear was Other People telling me that I should ‘treasure these days’ because I’ll ‘miss them’ and they’ll be ‘over in a flash’.
 
+(Brief interlude here to point you all at [this amazing woman](https://www.instagram.com/singlemothering_/)’s comics, particularly [this one](https://www.instagram.com/p/CMwY3sAg6w8/))
+
 I get it.  And I really really do treasure the good days.  Because, when they are good, they are very very good.  I am amazed at everything the Smols are learning and I am more in love with them than I ever thought it possible to love anyone or anything.
 
 But the bad days are so very bad.  I am thankful that they are fewer and further between than they used to be, but they are so lonely and so debilitating and honestly, I’m just really bad at dealing with them.  I also have no idea whether other people experience Bad Days on the same level (or worse?), partly because we are doing all of this in a bubble (thanks COVID), but aside from that my mental state is as personal and individual to me as anybody else’s is to them.
