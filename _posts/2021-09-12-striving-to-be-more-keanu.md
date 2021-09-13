@@ -2,7 +2,7 @@
 layout: post
 title: "Striving to be more Keanu"
 subtitle: "(Or \"Why I love (at home) yoga\")"
-tags: Yoga
+tags: Yoga Parenting
 ---
 
 Years ago, when I was still singing full time, I had a conversation with a dancer that always stuck with me, even though I didn’t realise at the time *quite* how life changing it would be.
@@ -29,7 +29,7 @@ Also, apropos of nothing, when you’re at home, you don’t have to wear The Ri
 
 So what are the actual benefits?  This is where it gets interesting.
 
-I think everybody understands that yoga is awesome on the physical front - you burn calories, you tone muscles, you improve joint flexibility and stability, you improve your posture et c (I mean, I literally could go on).
+I think everybody understands that yoga is awesome on the physical front - you burn calories, you tone muscles, you improve joint flexibility and stability, you improve your posture et c. (I mean, I literally could go on).
 
 But for me (and plenty of others), the physical benefits are a kind of base camp.  A starting point from which you realise that yoga also totally looks after your spiritual and mental health as well.  No great surprise when you remember that it has its roots in Buddhism, but yet here I am, still having my mind blown by it.
 
