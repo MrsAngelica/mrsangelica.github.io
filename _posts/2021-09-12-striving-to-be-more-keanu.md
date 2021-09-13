@@ -2,7 +2,7 @@
 layout: post
 title: "Striving to be more Keanu"
 subtitle: "(Or \"Why I love (at home) yoga\")"
-tags: Yoga Parenting
+tags: Yoga Parenting Mindfulness
 ---
 
 Years ago, when I was still singing full time, I had a conversation with a dancer that always stuck with me, even though I didn’t realise at the time *quite* how life changing it would be.
