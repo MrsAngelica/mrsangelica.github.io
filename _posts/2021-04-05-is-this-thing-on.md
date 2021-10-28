@@ -12,7 +12,7 @@ It is Easter Monday.
 
 The year is 2021.  I think.  I mean it’s basically 2020 v2.0 at this point isn’t it?
 
-Today is A Good Day because I finished all the [baby admin](% post_url 2021-08-05-a-normal-day-at-8-months %) (babmin?) before lunch. I even managed to do a couple of loads of washing this afternoon and - most miraculously of all - the babies (yes, plural, two at last count) have slept for long enough for me to do some study (current module: child psychology. It's a double edged sword…)
+Today is A Good Day because I finished all the [baby admin]({% post_url 2021-08-05-a-normal-day-at-8-months %}) (babmin?) before lunch. I even managed to do a couple of loads of washing this afternoon and - most miraculously of all - the babies (yes, plural, two at last count) have slept for long enough for me to do some study (current module: child psychology. It's a double edged sword…)
 
 I have reached the Nirvana of having Nothing To Do (I mean obviously I have a million things to do but nothing is on fire and nothing needs doing that my babies’ basic survival relies on).
 
