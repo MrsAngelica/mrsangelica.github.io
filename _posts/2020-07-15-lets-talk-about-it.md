@@ -2,6 +2,7 @@
 layout: post
 title: "Let's talk about it"
 subtitle: "(Or \"Why we need to normalise miscarriage\")"
+description: "(Or \"Why we need to normalise miscarriage\")"
 tags: Parenting Mindfulness
 ---
 

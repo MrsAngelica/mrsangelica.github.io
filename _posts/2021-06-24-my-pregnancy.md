@@ -2,6 +2,7 @@
 layout: post
 title: 'My pregnancy'
 subtitle: "(Or \"SURPRISE!\")"
+description: "(Or \"SURPRISE!\")"
 tags: Parenting
 ---
 

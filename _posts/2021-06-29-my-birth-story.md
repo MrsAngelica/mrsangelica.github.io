@@ -2,6 +2,7 @@
 layout: post
 title: "My birth story"
 subtitle: "(Or \"An ode to the C section\")"
+description: "(Or \"An ode to the C section\")"
 tags: Parenting Yoga
 ---
 

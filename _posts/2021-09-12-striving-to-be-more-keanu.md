@@ -2,6 +2,7 @@
 layout: post
 title: "Striving to be more Keanu"
 subtitle: "(Or \"Why I love (at home) yoga\")"
+description: "(Or \"Why I love (at home) yoga\")"
 tags: Yoga Parenting Mindfulness
 ---
 

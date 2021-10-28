@@ -2,6 +2,7 @@
 layout: post
 title: "The first few days"
 subtitle: "(Or \"The comedown\")"
+description: "(Or \"The comedown\")"
 tags: Parenting
 ---
 

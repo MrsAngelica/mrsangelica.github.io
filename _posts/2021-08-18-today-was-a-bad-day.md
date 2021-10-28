@@ -2,6 +2,7 @@
 layout: post
 title: "Today was A Bad Day"
 subtitle: "(Or \"Why I will never tell a new parent to 'treasure the early days'\")"
+desecription: "(Or \"Why I will never tell a new parent to 'treasure the early days'\")"
 tags: Parenting Psychology
 ---
 

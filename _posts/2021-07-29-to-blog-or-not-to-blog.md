@@ -2,6 +2,7 @@
 layout: post
 title: "To blog or not to blog"
 subtitle: "(Or \"Learning to let go\")"
+description: "(Or \"Learning to let go\")"
 tags: Parenting Psychology Mindfulness
 ---
 

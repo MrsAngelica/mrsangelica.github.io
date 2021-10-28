@@ -2,6 +2,7 @@
 layout: post
 title: "My first solo day with the Smols"
 subtitle: "(Or \"An ode to takeaway pizza and gin\")"
+description: "(Or \"An ode to takeaway pizza and gin\")"
 tags: Parenting
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "A normal day at 8 months"
 subtitle: "(Or \"What exactly do I mean by 'baby admin'?\")"
+description: "(Or \"What exactly do I mean by 'baby admin'?\")"
 tags: Parenting
 ---
 
