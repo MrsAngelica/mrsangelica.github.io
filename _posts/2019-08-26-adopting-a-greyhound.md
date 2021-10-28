@@ -2,6 +2,7 @@
 layout: post
 title: "Adopting a greyhound"
 subtitle: "(Or \"One of the best decisions we ever made\")"
+description: "(Or \"One of the best decisions we ever made\")"
 tags: Dogs
 ---
 
