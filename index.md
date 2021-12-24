@@ -10,7 +10,7 @@ layout: default
 {% assign latest=site.posts[0] -%}
 [{{ latest.title }} {{ latest.subtitle }}]({{ latest.url }})
 
-If this is your first time here, hello!  At the bottom of this (and every) page is a list of tags that I have used - click on any of them for a list of posts with that tag (like [Parenting]({% link tags/parenting/index.html %})), and to a full list of [All Posts Ever]({% link posts.md %}).
+If this is your first time here, hello!  At the bottom of this (and every) page is a list of tags that I have used - click on any of them for a list of posts with that tag (like [Parenting]({% link tags/parenting/index.html %})), or a full list of [All Posts Ever]({% link posts.md %}).
 
 [Here's]({% post_url 2021-04-05-is-this-thing-on %}) a kind of introduction to the blog and [here's]({% post_url 2021-04-06-who-am-i %}) a kind of introduction to me and the sort of thing you might find here.
 
