@@ -10,7 +10,7 @@ On the (increasingly long and looming) list of Posts I Want To Write, there are 
 
 *However*, one post I keep circling back to is this one. I don’t think it has a sell by date, but I thought I should probably just crack on and write it all the same.  Of course, the reason for its timeless nature is tautologically apparent, thusly:
 
-**Me:** Ooh I should totally write about this, it’s a really interesting snapshot of early parenthood, and it would be interesting to spend some time processing how I feel about it
+**Me:** Ooh I should totally write about this, it’s a really interesting snapshot of early parenthood, and it would be interesting to spend some time processing how I feel about it  
 **Also me (but some days/weeks later):** I cannot remember any of my thought processes or emotions regarding that thing.  Also, did that even happen?  Was that me?
 
 Because, friends, the change cometh thick, and it cometh fast.
