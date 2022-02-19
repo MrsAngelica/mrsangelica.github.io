@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Could I interest you in all the change all of the time?"
-subtitle: "(Or \"Why (early) parenting is so tiring\")"
-description: "(Or \"Why (early) parenting is so tiring\")"
+title: "Why (early) parenting is so tiring"
+subtitle: "(Or \"Could I interest you in all the change all of the time?\")"
+description: "(Or \"Could I interest you in all the change all of the time?\")"
 tags: Psychology Parenting
 ---
 
@@ -37,4 +37,4 @@ On that note, I’m off to find some caffeine before the Smols wake up from thei
 
 xx
 
-The title for this post, by the way, is brought to you by [this little gem](https://www.youtube.com/watch?v=k1BneeJTDcU) (NSFW or little ears - although you can thank me for the ear worm later)...
+The subtitle for this post, by the way, is brought to you by [this little gem](https://www.youtube.com/watch?v=k1BneeJTDcU) (NSFW or little ears - although you can thank me for the ear worm later)...
