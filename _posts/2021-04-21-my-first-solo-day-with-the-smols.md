@@ -6,7 +6,7 @@ description: "(Or \"An ode to takeaway pizza and gin\")"
 tags: Parenting
 ---
 
-As I will no doubt talk about another time, my husband and I managed (with much wrangling) to navigate our respective parental leave work policies and land six months parental leave together in a way that we could afford.
+So my husband and I managed ([with much wrangling](https://twitter.com/OpnParenthesis/status/1494669188828475394)) to navigate our respective parental leave work policies and land six months parental leave together in a way that we could afford.
 
 Obviously, this brought wonderful bonuses and a non zero amount of challenges.
 
