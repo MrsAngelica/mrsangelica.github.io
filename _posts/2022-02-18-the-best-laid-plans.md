@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The best laid plans of a woman who wanted to write and remember"
-subtitle: "(Or \"Requiem for a (blogging) dream\")"
-description: "(Or \"Requiem for a (blogging) dream\")"
+title: "Requiem for a (blogging) dream"
+subtitle: "(Or \"The best laid plans of a woman who wanted to write and remember\")"
+description: "(Or \"The best laid plans of a woman who wanted to write and remember\")"
 tags: Psychology Parenting
 ---
 
