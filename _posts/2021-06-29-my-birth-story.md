@@ -16,7 +16,7 @@ OK so maybe people don’t go quite that far these days, but there’s still a l
 
 My mother’s reaction to that was to point out that she absolutely did not fail thank you very much and would she kindly go away now please.  She may or may not have used other words for that second bit.
 
-My approach to parenthood was therefore hugely influenced by my mother’s really quite awesome (and ahead of its time) opinions on C sections.  My mum and I had a tricky relationship, but I understand so much more about her now that I’m a mum myself.  As she always said I would.  I’m genuinely sad that I never got the chance to tell her that.
+My approach to parenthood was therefore hugely influenced by my mother’s really quite awesome (and ahead of its time) opinions on C sections.  My mum and I had a tricky relationship, but I understand so much more about her now that I’m a mum myself.  As she always said I would.  [I’m genuinely sad that I never got the chance to tell her that]({% post_url 2022-02-19-i-just-want-my-mum %}) (TW for link: grief, loss of parent).
 
 Over the intervening years, I joked a lot about how I hoped I’d be allowed to choose to have a C section (I don’t think I realised this was already the case).  I also joked a lot about how I only really want one pregnancy/child but if it were twins I suppose I’d keep them both but JOKES WHO HAS TWINS ANYWAY.
 
