@@ -18,7 +18,7 @@ And then we looked round a couple of nurseries.
 
 BOOM.
 
-Snot everywhere.
+Snot everywhere.  Nurseries truly are a cesspit of germs ("all good for the immune system!", she sings merrily to herself...)
 
 Thing is, the snot was the best bit (is that a weird way of putting that?  Maybe I should say the least bad bit?).  What I hadn’t really thought about was all the other stuff - the lack of appetite, the restless nights, the constant and unwavering sadness as the Smols struggle to get their heads around What The Actual Heck is happening to them. And that’s before you deal with the gunky eyes, the cracked lips from where they’ve been breathing through their mouths all night (nipple cream to the rescue) or the falling asleep at the table.
 
