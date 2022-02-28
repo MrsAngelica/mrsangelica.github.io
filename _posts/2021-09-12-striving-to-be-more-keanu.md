@@ -46,7 +46,7 @@ BUT if you’ve been doing yoga for a while, you start to notice that it’s not
 
 (insert mind blown emoji here)
 
-Maybe one wrist isn’t quite underneath the shoulder.  And you notice this not because your bones feel wrong but because your soul feels wrong - the energy isn’t flowing right.  Or when you go to move to cat pose, you realise that there are a million ways of doing that, and one way feels more “peaceful” (physically and spiritually) than another (on a given day), so you do that one.  Or when you’re in downward dog and you move your hips back a tiny bit more because you have an inkling that you might benefit from that - and BOOM the energy is suddenly flowing freely and your muscles are all working so much more efficiently and healthily.
+Maybe one wrist isn’t quite underneath the shoulder.  And you notice this not because your bones feel wrong but because your *soul* feels wrong - the energy isn’t flowing right.  Or when you go to move to cat pose, you realise that there are a million ways of doing that, and one way feels more “peaceful” (physically and spiritually) than another (on a given day), so you do that one.  Or when you’re in downward dog and you move your hips back a tiny bit more because you have an inkling that you might benefit from that - and BOOM the energy is suddenly flowing freely and your muscles are all working so much more efficiently and healthily.
 
 I could go on.  In fact, if I ever corner you in a pub and start talking about yoga, you probably want to get comfortable.
 
