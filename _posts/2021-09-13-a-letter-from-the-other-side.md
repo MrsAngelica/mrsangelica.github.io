@@ -76,7 +76,7 @@ We stay a week, with my husband and I taking it in turns to be with the baby in 
 
 This doesn’t feel like how it’s meant to be.
 
-1 month post-birth
+**1 month post-birth**
 
 Somewhere around this point, I have a panic attack during which I scream “Having children was the worst \*\*\*\*\*\*\* mistake of my life”.  And, in that moment, I really mean it.
 
@@ -130,13 +130,13 @@ Before the penultimate class, I'm bottle feeding my babies in the corridor (I tr
 
 I celebrate my husband’s birthday with the [biggest postnatal panic attack to date]({% post_url 2021-08-18-today-was-a-bad-day %}), culminating in me being a quivering wreck on the floor with a bruised forehead from where I fell, and the husband finishing off the nappy change I was half way through.
 
-*I don’t think I’m doing this properly.
+*I don’t think I’m doing this properly.*
 
-This definitely isn’t how it’s meant to be.
+*This definitely isn’t how it’s meant to be.*
 
-What am I doing wrong?
+*What am I doing wrong?*
 
-Am I broken?*
+*Am I broken?*
 
 \*
 
