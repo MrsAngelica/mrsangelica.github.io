@@ -46,7 +46,7 @@ Apropos of nothing at all, by the way, a brief side note: when Smol T started wo
 
 Now, some of you may be wondering why I didn't just cut my losses and switch back to two naps. It's an entirely fair question, but aside from my own personal issues regarding [sunk cost fallacies](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect), I'm not sure I'd have done anything differently, even if I knew it was going to take this long. Because Smol J really seemed to be enjoying the opportunity for a good long snooze - and, as routine changes have largely been a case of making Smol J wait until Smol T was ready, it felt nice to prioritise J for once :)  However, what I *have* realised is that the decision to move to one nap as early as we did certainly goes a long way to explaining why sleep has been so much of a battle over this last period.  And why we have all been so heckin’ tired.
 
-So, there you have it, a cautionary tale indeed. Remember that anti-drugs drive in schools in the 90s that was all “JUST SAY NO!”?.  That.  But for doing the 2-to-1 nap transition early.
+So, there you have it, a cautionary tale indeed. Remember that anti-drugs drive in schools in the 90s that was all “JUST SAY NO!”?  That.  But for doing the 2-to-1 nap transition early.
 
 Lxx
 
