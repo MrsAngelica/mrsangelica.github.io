@@ -20,7 +20,7 @@ The other week at college, I was introduced to a quotation from the perpetually 
 
 > “Everything that irritates us about others can lead us to an understanding of ourselves.”
 
-[(A starter discussion on the wider psychological ideas of projection and shadow selves can be found here)](https://www.samwoolfe.com/2016/11/carl-jung-and-hermann-hesse-explain-why.html)
+([A starter discussion on the wider psychological ideas of projection and shadow selves can be found here](https://www.samwoolfe.com/2016/11/carl-jung-and-hermann-hesse-explain-why.html))
 
 And why is it relevant here? Because I've spent a large portion of the last 19 months being Really Irritated by people who tell me (and others) to [treasure the early days]({% post_url 2021-08-18-today-was-a-bad-day %})...and I think it's entirely possible that my anger is borne out of a quiet voice saying "that'll be you one day".
 
@@ -48,7 +48,7 @@ But \*also\*, maybe mindfulness doesn’t *just* involve paying attention to wha
 
 What do I mean by that?
 
-As I mentioned above, there are more and more really lovely moments these days - and maybe it's the awareness of time passing or a pathological need to feel like the last 19 months were ["worth it"]({% post_url 2021-09-13-a-letter-from-the-other-side %}), but I find myself wanting to bottle them. To take a screenshot. To preserve the (sometimes fleeting) whispers of joy and serenity for posterity. For example, when Smol T pointed at their vest at bedtime yesterday and said "jama!" out of nowhere...or when Smol J gave Smol T their leftover pasta at teatime...or when they spent hours (minutes) the other evening looking out of the window labelling everything that drove past as either “gar” or “lowwy”...or or or...I could go on (which is a fact to be celebrated in its own right!)
+As I mentioned above, there are more and more really lovely moments these days - and maybe it's the awareness of time passing or a pathological need to feel like the last 19 months were "[worth it]({% post_url 2021-09-13-a-letter-from-the-other-side %})", but I find myself wanting to bottle them. To take a screenshot. To preserve the (sometimes fleeting) whispers of joy and serenity for posterity. For example, when Smol T pointed at their vest at bedtime yesterday and said "jama!" out of nowhere...or when Smol J gave Smol T their leftover pasta at teatime...or when they spent hours (minutes) the other evening looking out of the window labelling everything that drove past as either “gar” or “lowwy”...or or or...I could go on (which is a fact to be celebrated in its own right!)
 
 But perhaps the best example is that Smol T in particular has taken to asking for (demanding) “gudoo” (cuddles).  I didn’t know love could be this visceral and I’m absolutely certain that being willfully and aggressively cuddled by my own offspring is better than any mind-altering drug I could possibly want to take.  So, I want to bottle that feeling - of course I do.  Especially because there will come a time when they will hardly cuddle me at all.  BUT, and here’s the biggie, I want to recognise the existence of that future without allowing it to impinge on my present. I.e. it's more important for me to enjoy the last few seconds of the cuddle than to spend them hoping they turn into a few more. I certainly don't want to taint the memory of these beautiful moments by clinging onto the sadness that is left when they are gone.
 
