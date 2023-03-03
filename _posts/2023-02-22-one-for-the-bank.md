@@ -34,13 +34,13 @@ My plan for the morning was to go to a craft session at a local museum that we�
 
 But then - and I cannot emphasise enough the joy contained within this moment - we had this conversation:
 
-T: “Mummy, are we going to the lake?” 
-Me: “Oh, we weren’t going to go to the lake, we were going to go to the playground, but would you like to go to the lake?” 
-T: “Yes!  Want to see ducks!” 
-Me: “OK, great, let’s go and see the ducks!” 
-T: “Yaaaaay” 
-Me: “But we have to get petrol first” 
-T: “OK. Petrol first then ducks.” 
+T: “Mummy, are we going to the lake?”  
+Me: “Oh, we weren’t going to go to the lake, we were going to go to the playground, but would you like to go to the lake?”  
+T: “Yes!  Want to see ducks!”  
+Me: “OK, great, let’s go and see the ducks!”  
+T: “Yaaaaay”  
+Me: “But we have to get petrol first”  
+T: “OK. Petrol first then ducks.”  
 
 Mind.  Blown.
 
