@@ -11,23 +11,23 @@ But I can't explain how
 Because I was never given the language
 To talk about it
 
-        You see, it is best not to expect
-        People with wombs
-        To know things about their wombs
-        Because their wombs
-        Make it difficult
-        To know things
+You see, it is best not to expect
+People with wombs
+To know things about their wombs
+Because their wombs
+Make it difficult
+To know things
 
 My womb's gone wonky
 I've tried turning it off and on again
 But it took a long time to reboot
 And all the buttons have moved
 
-        Yes, yes, I've looked at the manual
-        But there's no troubleshooting section...
-        Just a lot of stuff about
-        How to make it look and feel nice
-        For other people
+Yes, yes, I've looked at the manual
+But there's no troubleshooting section...
+Just a lot of stuff about
+How to make it look and feel nice
+For other people
 
 My womb's gone wonky
 I think it's probably The Change
@@ -35,15 +35,15 @@ But into what?
 Do *I* get to choose?
 
 My womb's gone wonky
-  As well as
-                My eyes
-    My boobs
-            My joints
-                  My muscles
-      My skin
-                My mood
-    My sex drive
-                    And my sleep
+As well as
+My eyes
+My boobs
+My joints
+My muscles
+My skin
+My mood
+My sex drive
+And my sleep
 
 And I'm SO ANGRY
 
