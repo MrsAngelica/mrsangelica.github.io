@@ -23,35 +23,35 @@ Perhaps it’s The Change
 …into what?  
 Do I get to choose?!  
 
-*It is best not to allow  
+*(It is best not to allow  
 People with wombs  
 To choose things  
 Because people with wombs  
 Will only go and choose  
-The wrong things*  
+The wrong things)*  
 
 My womb’s gone wonky  
 Should I turn it off and on again?  
 I tried to check the manual  
 But it’s password protected.  
 
-*It is best not to encourage  
+*(It is best not to encourage  
 People with wombs  
 To fiddle with the hardware  
-Because they’ll only break it*  
+Because they’ll only break it)*  
 
 My womb’s gone wonky.  
 But the symptoms on this leaflet  
 Sound remarkably like the things I might experience  
 On an unremarkable Tuesday in June  
 
-*It is best not to prioritise  
+*(It is best not to prioritise  
 People with wombs  
 When doing research  
 It is much safer to ask  
 People without wombs  
 How they feel  
-About wombs*  
+About wombs)*  
 
 My womb’s gone wonky  
 And my eyes  
@@ -70,6 +70,6 @@ Overly concerned with what I do with it
 Is avoiding eye contact and shuffling its feet  
 
 My womb’s gone won–  
-Hang on, if you don’t want it anymore…  
-*…can I have it back now?*  
+Hang on, if you don’t want it anymore...   
+*...can I have it back now?*  
 
