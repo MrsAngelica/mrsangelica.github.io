@@ -11,12 +11,12 @@ But I can’t tell you how
 Because I haven’t been given the language  
 To talk about it  
 
-	*It is best not to teach  
-	People with wombs  
-	How their wombs work  
-	Because people with wombs  
-	Find it hard to understand  
-	How things work*  
+*(It is best not to teach  
+People with wombs  
+How their wombs work  
+Because people with wombs  
+Find it hard to understand  
+How things work)*  
 
 My womb’s gone wonky  
 Perhaps it’s The Change  
