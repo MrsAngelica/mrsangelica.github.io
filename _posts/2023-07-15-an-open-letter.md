@@ -3,7 +3,7 @@ layout: post
 title: "An open letter to the woman who made me cry today"
 subtitle: "(Or \"Kindness, always kindness\")"
 description: "(Or \"Kindness, always kindness\")"
-tags: Parenting, Feminism, Psychology
+tags: Parenting Feminism Psychology
 ---
 
 Imagine the scene.
